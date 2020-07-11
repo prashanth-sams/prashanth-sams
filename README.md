@@ -33,5 +33,5 @@ Test Automation Engineer contributing to the IT industry since 2011. He authored
 ### Other links
 - [Book](https://www.amazon.com/Selenium-Essentials-Prashanth-Sams-ebook/dp/B00VEH8MSU)
 - [Stackoverflow](http://stackoverflow.com/users/1482709/prashanth-sams)
-- [Book](https://devopsqa.wordpress.com/)
+- [Blog](https://devopsqa.wordpress.com/)
 
