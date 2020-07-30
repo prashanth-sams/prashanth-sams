@@ -31,8 +31,6 @@ Test Automation Engineer contributing to the IT industry since 2011. He authored
 
 
 ### Reach Me
-[LinkedIn](http://stackoverflow.com/users/1482709/prashanth-sams)
-
 [![Linkedin Badge](https://img.shields.io/badge/-prashanthsams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashanth-sams-58208953/)](https://www.linkedin.com/in/prashanth-sams-58208953/) 
 [![Twitter Badge](https://img.shields.io/badge/-prashanthsams-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prashanthsams)](https://twitter.com/prashanthsams) 
 [![StackOverflow Badge](https://img.shields.io/badge/-prashanthsams-2d2d2d?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/users/1482709/prashanth-sams)](https://stackoverflow.com/users/1482709/prashanth-sams) 
