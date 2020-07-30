@@ -14,7 +14,7 @@ Test Automation Engineer contributing to the IT industry since 2011. He authored
 
 | Type         | Skills            |
 | -------------- | ---------          |
-| Script    | Ruby, Python, JavaScript, Java, Shell (bash), Groovy, Linux cmds |
+| Script    | Python, Ruby, JavaScript, Java, Shell (bash), Groovy, Linux cmds |
 | Tool    | Selenium WebDriver, Appium, Protractor, Capybara, CasperJS |
 | API Automation    | Ruby (Client-API), Javascript (Frisby), Postman, Insomania |
 | BDD Framework    | Cucumber (Gherkin), Behave, JBehave |
