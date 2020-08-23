@@ -6,11 +6,13 @@ Test Automation Engineer contributing to the IT industry since 2011. He authored
 
 
 ### **My quotes**
-> “Tests without an assertion is not a test”
+> “Test without an assertion is not a test”
+>
+> “Tool does matter unless you know how to create it”
 >
 > “I’m faster, my bots are faster than me”
 
-### Tech stack
+### 🛠️ Tech stack
 
 | Type         | Skills            |
 | -------------- | ---------          |
