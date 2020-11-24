@@ -27,7 +27,7 @@ Test Automation Engineer contributing to the IT industry since 2011. He authored
 | Version Control    | GIT, SVN [GitHub, Gitlab, Stash and BitBucket] |
 | Performance    | SitespeedIO |
 | IDE    | PyCharm, IntelliJ IDEA Ultimate, VS Code, RubyMine, Eclipse, Sublime Text 3, Atom |
-| Defect Tracking and Project Management Tool    | JIRA, Testrail, Redmine, Mantis, Agilefant, TRAC |
+| Defect Tracking and Project Management Tool    | JIRA, Redmine, Mantis, Agilefant, TRAC |
 | Test Management Tool    | TestRail, XRay, TestLink, TestRun |
 | Dev Tools    | ReactJS, Redux, JS, TypeScript |
 
