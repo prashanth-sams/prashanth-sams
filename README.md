@@ -11,6 +11,8 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 > “Tool does matter unless you know how to create it”
 >
 > “I’m faster, my bots are faster than me”
+>
+> “Talk is meaningless without data”
 
 ### 🛠️ Tech stack
 
