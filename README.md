@@ -1,4 +1,4 @@
-## Lead QA Engineer
+## Lead QA Engineer | Automation Architect
 
 QA Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials" in March 2015, contributes and developed open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter for the selenium community by responding to diligent Q&A over professional networks. In spite of having rich experience in assorted projects as a Test Automation Engineer, he has also been a Business Development Manager, HR Executive, HR Sourcer/Recruiter, and Developer in his past career timeline.
 
@@ -20,7 +20,7 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | -------------- | ---------          |
 | Script    | Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds |
 | Tool    | Selenium WebDriver, Appium, Protractor, Capybara, CasperJS |
-| API Automation    | Ruby (Client-API), Javascript (Frisby), Postman, Insomania |
+| API Automation    | Postman, Ruby (Client-API), Javascript (Supertest / Frisby), Insomania |
 | BDD Framework    | Cucumber (Ruby), Behave, JBehave, Cucumber-js |
 | CI/CD    | Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Terraform, Zalenium, Codeship, Travis CI |
 | Database    | MySql, MongoDB, ElasticSearch, InfluxDB |
@@ -28,7 +28,7 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | Unit Test Framework    | Pytest, JUnit, TestNG, Jasmine, RSpec |
 | A/B Testing | Google Optimize, Optmizely, GTM |
 | Version Control    | GIT, SVN [GitHub, Gitlab, Stash and BitBucket] |
-| Performance    | SitespeedIO |
+| Performance    | Locust, SitespeedIO |
 | IDE    | PyCharm, IntelliJ IDEA Ultimate, VS Code, RubyMine, Eclipse, Sublime Text 3, Atom |
 | Defect Tracking and Project Management Tool    | JIRA, Redmine, Mantis, Agilefant, TRAC |
 | Test Management Tool    | TestRail, XRay, TestLink, TestRun |
