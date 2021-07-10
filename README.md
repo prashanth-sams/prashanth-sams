@@ -19,9 +19,9 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | Type         | Skills            |
 | -------------- | ---------          |
 | Script    | Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds |
-| Tool    | Selenium WebDriver, Appium, Protractor, Capybara, CasperJS |
-| API Automation    | Postman, REST-Assured, Ruby (Client-API), Javascript (Supertest / Frisby), Insomania |
+| API Automation    | REST-Assured, Postman, Ruby (Client-API), Javascript (Supertest / Frisby), Insomania |
 | Contract Testing    | PactFlow, Pact, OpenAPI / OAS (Swagger) |
+| Front-End Automation    | Selenium WebDriver, Appium, Protractor, Capybara, CasperJS |
 | BDD Framework    | Cucumber (Ruby), Behave, JBehave, Cucumber-js |
 | CI/CD    | Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Terraform, Zalenium, Codeship, Travis CI |
 | Database    | MySql, MongoDB, ElasticSearch, InfluxDB |
