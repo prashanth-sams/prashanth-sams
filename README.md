@@ -33,7 +33,7 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | IDE    | PyCharm, IntelliJ IDEA Ultimate, VS Code, RubyMine, Eclipse, Sublime Text 3, Atom |
 | Defect Tracking and Project Management Tool    | JIRA, Redmine, Mantis, Agilefant, TRAC |
 | Test Management Tool    | TestRail, XRay, TestLink, TestRun |
-| Dev Tools    | ReactJS, Redux, Firebase |
+| Dev Tools    | Spring Boot, ReactJS, Redux, Firebase |
 
 
 ### Reach Me
