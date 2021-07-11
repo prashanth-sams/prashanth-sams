@@ -26,7 +26,7 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | CI/CD    | Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Terraform, Zalenium, Codeship, Travis CI |
 | Database    | MySql, MongoDB, ElasticSearch, InfluxDB |
 | Monitoring    | Grafana, DataDog, Kibana, Prometheus, Graphite |
-| Unit Test Framework    | JUnit5, Pytest, JUnit, TestNG, Jasmine, RSpec |
+| Unit Test Framework    | JUnit5, Pytest, TestNG, Jasmine, RSpec |
 | A/B Testing | Google Optimize, Optmizely, GTM |
 | Version Control    | GIT, SVN [GitHub, Gitlab, Stash and BitBucket] |
 | Performance    | Locust, SitespeedIO |
