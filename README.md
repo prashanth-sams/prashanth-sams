@@ -46,4 +46,5 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 - [Blog](https://devopsqa.wordpress.com/)
 - [Opensource libraries - Ruby](https://rubygems.org/profiles/prashanthsams)
 - [Opensource libraries - Python](https://pypi.org/user/prashanthsams/)
+- [Snippets 101](https://prashanth-sams.github.io/snippets-101/)
 
