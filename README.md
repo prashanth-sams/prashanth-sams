@@ -24,7 +24,7 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | Mobile Automation    | XCUITest, Espresso, Appium |
 | Front-End Automation    | Selenium WebDriver, Cypress, Protractor, Capybara, CasperJS |
 | BDD Framework    | Cucumber (Ruby), Behave, JBehave, Cucumber-js |
-| CI/CD    | Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Terraform, Zalenium, Codeship, Travis CI |
+| CI/CD    | Fastlane, Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Bitrise, Terraform, Zalenium, Codeship, Travis CI |
 | Database    | MySql, MongoDB, ElasticSearch, InfluxDB |
 | Monitoring    | Grafana, DataDog, Kibana, Prometheus, Graphite |
 | Unit Test Framework    | JUnit5, Pytest, TestNG, Jasmine, RSpec |
