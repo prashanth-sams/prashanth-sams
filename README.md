@@ -19,7 +19,7 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | Type         | Skills            |
 | -------------- | ---------          |
 | Script    | Kotlin, Swift, Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds |
-| Contract Testing    | PactFlow, Pact, OpenAPI / OAS (Swagger) |
+| Contract Testing    | PactFlow, Pact (pact.io), OpenAPI / OAS (Swagger) |
 | Mobile Automation    | XCUITest, Espresso, Appium |
 | Front-End Automation    | Selenium WebDriver, Cypress, Protractor, Capybara, CasperJS |
 | API Automation    | REST-Assured, Postman, Ruby (Client-API), Javascript (Supertest / Frisby), Insomania |
