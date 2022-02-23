@@ -2,9 +2,6 @@
 
 QA Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials" in March 2015, contributes and developed open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter for the selenium community by responding to diligent Q&A over professional networks. In spite of having rich experience in assorted projects as a Test Automation Engineer, he has also been a Business Development Manager, HR Executive, HR Sourcer/Recruiter, and Developer in his past career timeline.
 
-<img align='right' width=45% src="https://github-readme-stats.vercel.app/api?username=prashanth-sams&show_icons=true">
-
-
 ### **My quotes**
 > “Test without an assertion is not a test”
 >
@@ -14,15 +11,18 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 >
 > “Talk is meaningless without data”
 
+<img align='right' width=49% src="https://github-readme-stats.vercel.app/api?username=prashanth-sams&show_icons=true">
+<img align="center" width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth-sams&" alt="prashanth-sams" /></p>
+
 ### 🛠️ Tech stack
 
 | Type         | Skills            |
 | -------------- | ---------          |
-| Script    | Kotlin, Swift, Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds |
 | Contract Testing    | PactFlow, Pact (pact.io), OpenAPI / OAS (Swagger) |
 | Mobile Automation    | XCUITest, Espresso, Appium |
 | Front-End Automation    | Selenium WebDriver, Cypress, Protractor, Capybara, CasperJS |
 | API Automation    | REST-Assured, Postman, Ruby (Client-API), Javascript (Supertest / Frisby), Insomania |
+| Script    | Kotlin, Swift, Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds |
 | BDD Framework    | Cucumber (Ruby), Behave, JBehave, Cucumber-js |
 | CI/CD    | Fastlane, Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Bitrise, Terraform, Zalenium, Codeship, Travis CI |
 | Database    | MySql, MongoDB, ElasticSearch, InfluxDB |
