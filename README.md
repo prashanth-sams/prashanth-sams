@@ -11,8 +11,8 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 >
 > “Talk is meaningless without data”
 
-<img align='right' width=49% src="https://github-readme-stats.vercel.app/api?username=prashanth-sams&show_icons=true">
-<img align="center" width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth-sams&" alt="prashanth-sams" /></p>
+<img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=prashanth-sams&show_icons=true">
+<img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth-sams&" alt="prashanth-sams" /></p>
 
 ### 🛠️ Tech stack
 
