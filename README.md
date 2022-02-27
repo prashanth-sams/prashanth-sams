@@ -25,7 +25,7 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | Script    | Kotlin, Swift, Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds |
 | BDD Framework    | Cucumber (Ruby), Behave, JBehave, Cucumber-js |
 | CI/CD    | Fastlane, Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Bitrise, Terraform, Zalenium, Codeship, Travis CI |
-| Database    | MySql, MongoDB, ElasticSearch, InfluxDB |
+| Database    | MySql, Firebase, MongoDB, ElasticSearch, InfluxDB |
 | Monitoring    | Grafana, DataDog, Kibana, Prometheus, Graphite |
 | Unit Test Framework    | JUnit5, Pytest, TestNG, Jasmine, RSpec |
 | A/B Testing | Google Optimize, Optmizely, GTM |
