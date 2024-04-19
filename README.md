@@ -22,6 +22,8 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | Mobile Automation    | XCUITest, Espresso, Appium |
 | Front-End Automation    | Selenium WebDriver, Cypress, Protractor, Capybara, CasperJS |
 | API Automation    | REST-Assured, Postman, Ruby (Client-API), Javascript (Supertest / Frisby), Insomania |
+| Performance    | JMeter, Locust, SitespeedIO, Lighthouse |
+| Security  | Burp Suite  |
 | Script    | Kotlin, Swift, Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds |
 | BDD Framework    | Cucumber (Ruby), Behave, JBehave, Cucumber-js |
 | CI/CD    | Fastlane, Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Bitrise, Terraform, Zalenium, Codeship, Travis CI |
@@ -30,7 +32,6 @@ QA Automation Architect contributing to the IT industry since 2011. He authored 
 | Unit Test Framework    | JUnit5, Pytest, TestNG, Jasmine, RSpec |
 | A/B Testing | Google Optimize, Optmizely, GTM |
 | Version Control    | GIT, SVN [GitHub, Gitlab, Stash and BitBucket] |
-| Performance    | Locust, SitespeedIO |
 | IDE    | PyCharm, IntelliJ IDEA Ultimate, VS Code, RubyMine, Eclipse, Sublime Text 3, Atom |
 | Defect Tracking and Project Management Tool    | JIRA, Redmine, Mantis, Agilefant, TRAC |
 | Test Management Tool    | TestRail, XRay, TestLink, TestRun |
