@@ -1,4 +1,4 @@
-## Lead QA Engineer | Automation Architect
+## Automation Architect
 
 QA Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials" in March 2015, contributes and developed open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter for the selenium community by responding to diligent Q&A over professional networks. In spite of having rich experience in assorted projects as a Test Automation Engineer, he has also been a Business Development Manager, HR Executive, HR Sourcer/Recruiter, and Developer in his past career timeline.
 
