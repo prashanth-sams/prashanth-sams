@@ -1,6 +1,6 @@
-## QA Automation Architect
+## QA Lead
 
-QA Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials" in March 2015, contributes and developed open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter for the selenium community by responding to diligent Q&A over professional networks. In spite of having rich experience in assorted projects as a Test Automation Engineer, he has also been a Business Development Manager, HR Executive, HR Sourcer/Recruiter, and Developer in his past career timeline.
+Lead QA / Manager / Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials'' in March 2015, contributed and developed 6 open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter of the selenium community by responding to diligent Q&A over professional networks. Despite having rich experience in assorted projects as a strong Quality Engineer, he has also been a Scrum Master & Product Manager, DevOps, Developer, Business Development Manager, HR Executive, and HR Sourcer/Recruiter in his past career timeline.
 
 ### **My quotes**
 > “Test without an assertion is not a test”
