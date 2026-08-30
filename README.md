@@ -3,13 +3,15 @@
 Lead QA / Manager / Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials'' in March 2015, contributed and developed 6 open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter of the selenium community by responding to diligent Q&A over professional networks. Despite having rich experience in assorted projects as a strong Quality Engineer, he has also been a Scrum Master & Product Manager, DevOps, Developer, Business Development Manager, HR Executive, and HR Sourcer/Recruiter in his past career timeline.
 
 ### **My quotes**
-> “Test without an assertion is not a test”
->
-> “Tool does matter unless you know how to create it”
+> "Technology powers the platform; data defines its value."
+> 
+> “Talk is meaningless without data”
 >
 > “I’m faster, my bots are faster than me”
 >
-> “Talk is meaningless without data”
+> “Tool does matter unless you know how to create it”
+>
+> “Test without an assertion is not a test”
 
 <img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=prashanth-sams&show_icons=true">
 <img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth-sams&" alt="prashanth-sams" /></p>
