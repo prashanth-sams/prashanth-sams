@@ -1,4 +1,4 @@
-## QA Architect / Lead
+## QA Manager / Lead
 
 Lead QA / Manager / Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials'' in March 2015, contributed and developed 6 open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter of the selenium community by responding to diligent Q&A over professional networks. Despite having rich experience in assorted projects as a strong Quality Engineer, he has also been a Scrum Master & Product Manager, DevOps, Developer, Business Development Manager, HR Executive, and HR Sourcer/Recruiter in his past career timeline.
 
@@ -41,7 +41,7 @@ Lead QA / Manager / Automation Architect contributing to the IT industry since 2
 
 
 ### Reach Me
-[![Linkedin Badge](https://img.shields.io/badge/-prashanthsams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashanth-sams-58208953/)](https://www.linkedin.com/in/prashanth-sams-58208953/) 
+[![Linkedin Badge](https://img.shields.io/badge/-prashanthsams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashanth-sams-58208953/)](https://www.linkedin.com/in/prashanth-samuel-700999349/) 
 [![Twitter Badge](https://img.shields.io/badge/-prashanthsams-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prashanthsams)](https://twitter.com/prashanthsams) 
 [![StackOverflow Badge](https://img.shields.io/badge/-prashanthsams-2d2d2d?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/users/1482709/prashanth-sams)](https://stackoverflow.com/users/1482709/prashanth-sams) 
 
