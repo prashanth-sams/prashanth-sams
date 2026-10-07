@@ -1,6 +1,6 @@
 ## QA Manager / Lead
 
-Lead QA / Manager / Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials'' in March 2015, contributed and developed 6 open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter of the selenium community by responding to diligent Q&A over professional networks. Despite having rich experience in assorted projects as a strong Quality Engineer, he has also been a Scrum Master & Product Manager, DevOps, Developer, Business Development Manager, HR Executive, and HR Sourcer/Recruiter in his past career timeline.
+QA Manager / Lead QA / Automation Architect contributing to the IT industry since 2011. He authored a book, "Selenium Essentials'' in March 2015, contributed and developed 6 open-source projects, and blogs about DevOps in devopsqa.wordpress.com, a great supporter of the selenium community by responding to diligent Q&A over professional networks. Despite having rich experience in assorted projects as a strong Quality Engineer, he has also been a Scrum Master & Product Manager, DevOps, Developer, Business Development Manager, HR Executive, and HR Sourcer/Recruiter in his past career timeline.
 
 ### **My quotes**
 > "Failure teaches; failing to learn defeats"
